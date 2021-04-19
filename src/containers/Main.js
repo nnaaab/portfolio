@@ -82,11 +82,12 @@ export default class Main extends Component {
               />
               <Route
                 path="/home"
+          
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
               <Route
                 path="/experience"
-                exact
+                // exact
                 render={(props) => (
                   <Experience {...props} theme={this.props.theme} />
                 )}
