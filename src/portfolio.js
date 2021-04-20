@@ -445,7 +445,7 @@ const experience = {
           duration: "Jan 2021 - Present",
           location: "New York, NY",
           description:
-            "I have worked with multiple clients to help with their sales. (1)Designed and launched an E-commerce webiste using WordPress and WooCommerce for a client who decided to move her several pyshical stores to an online based store (2)Launced a clients's online marketing program, including propsects' contact infromation collection, Customer Relationship Management(CRM) design and conversion funnel optimzation, lead a team of 3 other analyst interns.",
+            "I have worked with multiple clients to help with their sales.\n(1)Designed and launched an E-commerce webiste using WordPress and WooCommerce for a client who decided to move her several pyshical stores to an online based store \n(2)Launced a clients's online marketing program, including propsects' contact infromation collection, Customer Relationship Management(CRM) design and conversion funnel optimzation, lead a team of 3 other analyst interns.",
             //"I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To buld a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
         },
