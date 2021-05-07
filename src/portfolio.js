@@ -14,7 +14,7 @@ const seo = {
     title: "Ningning Zhu Portfolio",
     type: "website",
     ////////////////////////////
-    url: "http://ashutoshhathidara.com/",
+    url: "https://nnaaab.github.io/portfolio",
   },
 };
 
