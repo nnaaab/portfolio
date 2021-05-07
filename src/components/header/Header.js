@@ -73,6 +73,19 @@ class Header extends Component {
                   Experience
                 </NavLink>
               </li>
+              {/* TODO: DIFFERENT STYLING */}
+              <li>
+                <NavLink
+                  to="/covid"
+                  tag={Link}
+                  activeStyle={{ fontWeight: "bold" }}
+                  style={{ color: theme.text }}
+                  onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
+                  onMouseOut={(event) => onMouseOut(event)}
+                >
+                  Covid19
+                </NavLink>
+              </li>
               {/* <li>
                 <NavLink
                   to="/projects"

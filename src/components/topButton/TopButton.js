@@ -8,6 +8,7 @@ export default function TopButton({ theme }) {
   }
 
   function scrollFunction() {
+    if (!document.getElementById("topButton")) return;
     if (
       document.body.scrollTop > 30 ||
       document.documentElement.scrollTop > 30
